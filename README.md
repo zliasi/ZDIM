@@ -7,4 +7,4 @@
 
 ZDIM is a basic Python programme used for calculating the complex frequency-dependent field-induced dipole moment of a chemical system, as well as other electric properties. The `zdim.py` file is the main file, which utilises the custom functions of the `zdimpy` package.
 
-**Notice**: The programme is sill being developed and is therefore subject to frequent changes. Differences in the code presented here and that used to achieve the results presented in "Electric response properties of silver clusters" may exist. 
+**Notice**: The programme is still being developed and is therefore subject to frequent changes. Differences in the code presented here and that used to achieve the results presented in "Electric response properties of silver clusters" may exist. 
